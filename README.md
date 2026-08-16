@@ -14,13 +14,20 @@ cancellation trends.
 
 ##  Business Objectives
 
--1. Analyze overall reservation and cancellation patterns
--2. Compare City Hotel and Resort Hotel reservations
--3. Analyze monthly reservation trends
--4. Study Average Daily Rate (ADR) trends
--5. Compare ADR between cancelled and non-cancelled reservations
--6. Identify countries with high cancellation volumes
--7. Generate actionable business insights
+1. Analyze overall reservation and cancellation patterns
+
+2. Compare City Hotel and Resort Hotel reservations
+
+3. Analyze monthly reservation trends
+
+4. Study Average Daily Rate (ADR) trends
+
+5. Compare ADR between cancelled and non-cancelled reservations
+
+6. Identify countries with high cancellation volumes
+
+7. Generate actionable business insights
+
 
 ---
 
@@ -115,12 +122,12 @@ reservations.
 
 Based on the analysis, hotels can:
 
--1. Monitor high-cancellation customer segments.
--2. Analyze cancellation patterns by country and hotel type.
--3. Use historical booking patterns for better demand forecasting.
--4. Review pricing strategies during high-cancellation periods.
--5. Develop appropriate cancellation and deposit policies.
--6. Identify high-risk bookings using historical reservation behavior.
+1. Monitor high-cancellation customer segments.
+2. Analyze cancellation patterns by country and hotel type.
+3. Use historical booking patterns for better demand forecasting.
+4. Review pricing strategies during high-cancellation periods.
+5. Develop appropriate cancellation and deposit policies.
+6. Identify high-risk bookings using historical reservation behavior.
 
 ---
 
